@@ -381,6 +381,13 @@ a {
   text-align: left;
 }
 
+.section-paragraph-footer {
+  color: #555;
+  text-align: center;
+  font-weight: 300;
+  font-size: large;
+}
+
 .section-white {
   background: white;
   padding: 50px 0;
